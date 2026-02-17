@@ -1,0 +1,8 @@
+// package.json
+{{
+    "name": "p597s3ts",
+    "version": "4.3.7",
+    "scripts": {{
+        "start": "node index.js"
+    }}
+}}
